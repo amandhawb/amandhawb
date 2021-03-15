@@ -9,10 +9,10 @@
 - I like to analyze data and learn new languages.
 - Very curious and always ready to learn and contribute!
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="left">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandhawb&langs_count=10&theme=tokyonight&layout=compact" alt="Lenakirara :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandhawb&langs_count=10&theme=tokyonight&layout=compact" alt="Lenakirara :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="left">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amandhawb&show_icons=true&theme=synthwave" alt="Lenakirara :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=amandhawb&show_icons=true&theme=synthwave" alt="Lenakirara :: Profile Stats" /></p>
