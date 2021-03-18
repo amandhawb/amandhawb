@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img alt="gif hello" src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="90px"/>
 
 ## :woman_technologist: About me... 
 
@@ -12,8 +12,8 @@
 
 <h4 align="left">Top langs :tongue:</h4>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandhawb&langs_count=10&theme=tokyonight&layout=compact" alt="Lenakirara :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandhawb&langs_count=10&theme=tokyonight&layout=compact" alt="Amandha :: Top Langs" /></p>
 
 <h4 align="left">Profile stats :musical_keyboard:</h4>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=amandhawb&show_icons=true&theme=synthwave" alt="Lenakirara :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=amandhawb&show_icons=true&theme=synthwave" alt="Amandha :: Profile Stats" /></p>
