@@ -4,11 +4,19 @@
 
 <img align="right" alt="GIF" src="https://ci5.googleusercontent.com/proxy/K62dnpFDWUzlCGGOewrWgd2EVw9jgfxqM0Zc7iudIyrCmHt8TFXRLVtDK3dt3umkdyu2lpkjghTai_LT0iZIjEC5SDh_zUS9SSFRhK4Vx6Tnj_oJjtj3RHGsK0iLl-UIOM05gRoR=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615850147658.png" width="400px"/>
 
-- Currently studying web development at Trybe.
-- Brazilian living in California (Bay Area).
-- Passionate about technology.
-- I like to analyze data and learn new languages.
-- Very curious and always ready to learn and contribute!
+```javascript
+const amandha = {
+  nationality: "rio grande do sul, 🇧🇷",
+  currentlyLiving: "california, 🇺🇸",
+  pronouns: "she" | "her",
+  code: ["JavaScript", "HTML", "CSS", "Python"],
+  courses: ["trybe", "progra{maria}"],
+  college: ["bachelor's degree in business"]
+}
+```
+                        
+                        
+                       
 
 <h4 align="left">Top langs :tongue:</h4>
 
