@@ -9,7 +9,7 @@ const amandha = {
   nationality: "rio grande do sul, 🇧🇷",
   currentlyLiving: "california, 🇺🇸",
   pronouns: "she" | "her",
-  knowledge: ["JavaScript", "HTML", "CSS", "Python"],
+  knowledge: ["JavaScript", "HTML", "CSS", "Python", "React"],
   courses: ["trybe", "progra{maria}"],
   college: ["bachelor's degree in business"]
 }
