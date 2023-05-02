@@ -7,11 +7,11 @@
 ```javascript
 const amandha = {
   nationality: "rio grande do sul, 🇧🇷",
-  currentlyLiving: "california, 🇺🇸",
+  currentlyLiving: "miami, 🇺🇸",
   pronouns: "she" | "her",
-  knowledge: ["JavaScript", "HTML", "CSS", "Python", "React", "NodeJS"],
+  knowledge: ["JavaScript", "HTML", "CSS", "Python", "React", "NodeJS", "Java", "Springboot", "Kafka", "GraphQL"],
   courses: ["trybe", "progra{maria}"],
-  college: ["bachelor's degree in business"]
+  college: ["bachelor's degree in business", "studying master's in computer engineering]
 }
 ```
                         
