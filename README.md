@@ -19,6 +19,3 @@ const amandha = {
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandhawb&langs_count=10&theme=tokyonight&layout=compact" alt="Amandha :: Top Langs" /></p>
 
-## :bar_chart: Profile stats
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=amandhawb&show_icons=true&theme=synthwave" alt="Amandha :: Profile Stats" /></p>
