@@ -11,7 +11,7 @@ const amandha = {
   pronouns: "she" && "her",
   knowledge: ["JavaScript", "HTML", "CSS", "Python", "React", "NodeJS", "Java", "Springboot", "Kafka", "GraphQL"],
   courses: ["trybe - Full Stack Bootcamp", "progra{maria}", "Alura"],
-  college: ["bachelor's degree in business", "studying master's in computer engineering"]
+  college: ["studying master's in computer engineering", "bachelor's degree in business"]
 }
 ```
                         
