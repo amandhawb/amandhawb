@@ -10,7 +10,7 @@ const amandha = {
   currentlyLiving: "miami, 🇺🇸",
   pronouns: "she" && "her",
   knowledge: ["JavaScript", "HTML", "CSS", "Python", "React", "NodeJS", "Java", "Springboot", "Kafka", "GraphQL"],
-  courses: ["trybe - Full Stack Bootcamp", "progra{maria}", "Alura"],
+  courses: ["trybe - Full Stack Bootcamp", "progra{maria}", "Alura", "Code Path - Technical Interview Preparation"],
   college: ["studying master's in computer engineering", "bachelor's degree in business"]
 }
 ```
